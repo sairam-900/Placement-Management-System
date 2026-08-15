@@ -1,4 +1,4 @@
-Placement Management System
+PLACEMENT MANAGEMENT SYSTEM
 
 A Salesforce-based Placement Management System designed to manage students, job opportunities, and student applications through a centralized platform.
 
